@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aci810-control1</string>
+    <string name="action_settings">Settings</string>
+    <string name="Hello_world">Hello world!</string>
+ 	<string name="Button1">Foo</string>
+ 	<string name="Button2">Foo</string>
+ 	<string name="Button3">Foo</string>
+ 	<string name="Button4">Foo</string>
+ 	<string name="Button5">Foo</string>
+ 	<string name="Button6">Foo</string>
+ 	<string name="CheckBox1">This is the option 1</string>
+ 	<string name="CheckBox2">This is the option 2</string>
+ 	<string name="CheckBox3">This is the option 3</string>
+ 	<string name="editText1">Password Here!</string>
+</resources>
